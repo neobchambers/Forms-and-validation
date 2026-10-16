@@ -3,17 +3,17 @@ Imanova Yerkezhan SE-2528
 This project demonstrates HTML forms, HTML5 validation, Bootstrap from styling , and Javascript validation.
 
 Tasks:
-index.html - Simple contact form.
-task1.html - HTML5 Validation.
-task2.html - Bootstrap form styling.
-task3.html - Bootstrap validation styles.
-task4.html - Registration forms.
+- index.html - Simple contact form.
+- task1.html - HTML5 Validation.
+- task2.html - Bootstrap form styling.
+- task3.html - Bootstrap validation styles.
+- task4.html - Registration forms.
 
 Technologies used:
--HTML5
--CSS3
--JavaScript
--Bootstrap 5.3
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5.3
 
 Use the navigation bar to move through the tasks. This website is published via Github Pages.
 
